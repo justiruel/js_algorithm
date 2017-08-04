@@ -47,6 +47,7 @@ for (x=1;x<values.data.length;x++){
 	var bool = true;
 	array_new.forEach(function(item,index){
 		if(values.data[x].stdclass == item.stdclass) bool = false;
+		break; 
 	});
 	if (bool) array_new.push(values.data[x]);
 }

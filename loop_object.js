@@ -1,5 +1,5 @@
 var myObj = {
-	nama:"irul",
+  nama:"irul",
   alamat:"singosari",
   umur:26
 };

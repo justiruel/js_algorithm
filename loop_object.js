@@ -1,4 +1,3 @@
-```
 var myObj = {
 	nama:"irul",
   alamat:"singosari",
@@ -17,4 +16,3 @@ console.log(myObj[Object.keys(myObj)[0]]);
 
 console.log(myObj[Object.keys(myObj)[1]]);
 //singosari
-```

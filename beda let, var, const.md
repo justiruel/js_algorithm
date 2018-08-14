@@ -24,5 +24,7 @@ kode diatas akan muncul error :
 "coba" is read-only
 ```
 
-### kesimpulan : jika ingin agar data dari sebuah variable konsisten dan untuk menghindari kekeliruan deklarasi variable yg sama berkali-kali maka gunakan "let"
+### kesimpulan
+#### jika ingin agar data dari sebuah variable konsisten dan untuk menghindari kekeliruan deklarasi variable yg sama berkali-kali maka gunakan "let"
+#### jika ingin memiliki data yg tidak dapat dirubah gunakan "const"
 

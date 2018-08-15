@@ -31,4 +31,4 @@ console.log(car.getName()); // It is a car: Tesla
 console.log(car.getType()); // car
 ```
 
-pada line 21 ada 'super()', super itu merupakan method yang me-refer ke constructor class parent (Vehicle), jadi kalau ingin mengisi value dari constructor Car dari class vehicle gunakan perintah super(); 
+pada line 21 ada 'super()', super itu merupakan method yang me-refer ke constructor class parent (Vehicle), jadi kalau ingin mengisi value dari constructor Vehicle dari class Car gunakan perintah super(); 

@@ -33,3 +33,4 @@ console.log(car.getType()); // car
 
 pada line 21 ada 'super()', super itu merupakan method yang me-refer ke constructor class parent (Vehicle), jadi kalau ingin mengisi value dari constructor Vehicle dari class Car gunakan perintah super(); <br/>
 ingat! class child akan mewarisi semua yg ada di class parent termasuk property dan method
+### Jika ingin melihat bentuknya di es5 seperti apa coba convert di babel :  https://babeljs.io/repl/

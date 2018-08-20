@@ -1,3 +1,4 @@
+```
 const data = {
 	param1:10,
   param2:20,
@@ -7,3 +8,6 @@ const data = {
 }
 
 console.log(data.code());
+
+//hasil = 30
+```
